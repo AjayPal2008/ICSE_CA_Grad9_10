@@ -1,5 +1,5 @@
 //Here all the variables are considered as double. Casting needs to be done.
-// This Program finds the area and perimeter of a triangle - Ajay 25 Mar 2023
+// This Program finds the area and perimeter of a triangle
 import java.util.Scanner;
 public class Area_Perimeter_of_Triangle
 {
@@ -7,7 +7,6 @@ public class Area_Perimeter_of_Triangle
     {
         Scanner sc = new Scanner(System.in);
         float a, b, c, peri, semi_peri, area,inter;
-
 
         System.out.println( "Enter the first side of a triangle");
          a = sc.nextFloat();
