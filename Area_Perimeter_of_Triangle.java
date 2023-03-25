@@ -1,3 +1,4 @@
+//Prg - 2
 //Here all the variables are considered as double. Casting needs to be done.
 // This Program finds the area and perimeter of a triangle
 import java.util.Scanner;

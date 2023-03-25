@@ -1,3 +1,5 @@
+//Prg - 11
+//This program find the percentage of 5 subjects (marks are out of 100)
 import java.util.Scanner;//import scanner class
 class percent{//creating class
     public static void main(String [] args){//creating function
@@ -29,9 +31,6 @@ class percent{//creating class
             else{
                 System.out.println("enter numeric input");continue;}
 
-
-
-    
                 if (a1 > 100 || a2 > 100 || a3 > 100 || a4 > 100 || a5 > 100) {
                     System.out.println("enter input again");
                     System.out.println("should be below 100");

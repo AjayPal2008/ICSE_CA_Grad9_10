@@ -1,3 +1,5 @@
+//Prg - 5
+//This program swaps the values
 import java.util.Scanner;
 public class Exchange
 {
@@ -23,7 +25,5 @@ public class Exchange
         System.out.println("After Exchange");
         System.out.println("The new value of the first number is   :  " + a);
         System.out.println("The new value of the second number is   :  " + b);
-
-
     }
 }

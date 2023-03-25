@@ -1,3 +1,5 @@
+//Prg - 6
+//This program finds the factorial of a given number
 import java.util.Scanner;
 public class Factorials
 {
@@ -23,7 +25,6 @@ public class Factorials
             fact = fact * w;
         }
         sum = sum + ((math.pow(x, r)) / fact);
-
     }
 
 

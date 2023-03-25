@@ -1,4 +1,5 @@
-
+//Prg -13
+//This program finds the quotient and the remainder
 import java.util.Scanner;
 
 public class Quotient_Remainder

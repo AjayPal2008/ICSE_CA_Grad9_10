@@ -1,3 +1,5 @@
+//Prg - 8
+//This program calculate the fine on a library book
 import java.util.Scanner;
 
 public class Librarie

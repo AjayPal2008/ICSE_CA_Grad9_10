@@ -1,3 +1,4 @@
+//Prg - 10
 //This program generates 1 to 5 natural numbers based upon user's choice of loop
 import java.util.Scanner;
 public class Natural__Numbers

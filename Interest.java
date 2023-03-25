@@ -1,3 +1,5 @@
+//Prg - 7
+// This program calculates the interest simple and compund
 import java.util.Scanner;
 public class Interest
 {
@@ -28,9 +30,6 @@ public class Interest
                 System.out.println("the simple interest is : " + Simple_interest);
 
                 break;
-
-
-
 
             case 2 :
                 System.out.println("enter the principle");

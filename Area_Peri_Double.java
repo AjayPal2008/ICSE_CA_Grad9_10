@@ -1,4 +1,4 @@
-
+//Prg 1
 // Here the variables are declared as double. No casting is required.
 import java.util.Scanner;
 public class Area_Peri_Double

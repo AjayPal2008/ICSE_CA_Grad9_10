@@ -1,3 +1,5 @@
+//Prg - 3
+//This program calculates the agewise ticket charges
 import java.util.Scanner;
 public class Charges
 {

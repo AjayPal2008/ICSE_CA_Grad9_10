@@ -1,3 +1,5 @@
+//Prg - 9
+//This program find the greatest of two numbers
 import java.util.Scanner;
 
 public class Max

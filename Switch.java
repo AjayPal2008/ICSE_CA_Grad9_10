@@ -1,3 +1,5 @@
+//Prg -14
+//This program swaps/exchange two values
 import java.util.Scanner;
 public class Switch
 {

@@ -1,3 +1,5 @@
+//Prg -12
+//This program finds the prime and palindrome
 import java.util.Scanner;
 public class Prime__Palindrome
 {

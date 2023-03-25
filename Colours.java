@@ -1,3 +1,5 @@
+//Prg - 4
+//Display the colours - use of if else and logical operators
 import java.util.Scanner;
 
 public class Colours
