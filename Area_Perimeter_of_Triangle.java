@@ -1,5 +1,5 @@
 //Here all the variables are considered as double. Casting needs to be done.
-
+// This Program finds the area and perimeter of a triangle - Ajay 25 Mar 2023
 import java.util.Scanner;
 public class Area_Perimeter_of_Triangle
 {
