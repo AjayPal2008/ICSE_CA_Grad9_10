@@ -1,5 +1,6 @@
 //Prg - 16
-//This program
+//Date 25.03.23
+//This program evaluates an given expression
 import java.util.Scanner;
 
 public class The_Letter
